@@ -1,0 +1,132 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  list-style-type:none;
+  text-decoration:none;
+
+}
+
+/* side-bar css*/
+
+.material-icons{
+    padding: 9px 69px;
+}
+section#sidebar {
+    width: 20%;
+    
+   
+    background-color:#001F60 ;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: #fff;
+    height: 100%;
+}
+
+.sidebar-brand 
+{
+    padding: 50px 40px;
+}
+
+.sidebar-menu ul li a{
+    display: block;
+    color: #fff;
+    padding: 12px 40px;
+}
+
+.clear{
+    clear: both;
+}
+
+.sidebar-menu li:hover{
+background-color: rgba(127, 255, 170, 0.788);
+}
+
+header.main-header{
+    position: fixed;
+    background-color: #fff;
+    box-shadow: 10px 10px 20px #bbb;
+    width: 100%;
+}
+
+.header-left{
+    float:left;
+    width: 40%;
+    padding: 20px;
+}
+
+
+/* main-content */ 
+section#main-content {
+    width: 80%;
+    float: right;
+    
+}
+
+
+.dash-card
+{
+    width: 98%;
+   float:left;
+    text-align: left;
+    margin: 8% 2% 0% 1%;
+    padding: 20px;
+    height: 600px; 
+    background-color: #fff;
+    box-shadow: 10px 10px 20px #bbb;
+}
+
+.D{
+    width:420px;
+    margin-left: 70px;
+    
+    
+}
+.P{
+    width: 400px;
+    margin-left:0px;
+    
+}
+
+.D-btn{
+   
+    background-color: #ffc002;
+float:left;
+    border: none;
+    border-radius: 8px;
+    width: 400px;
+    color: #001F60;
+    padding: 15px;
+    
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 2px 3px 0px 0px;
+    cursor: pointer;
+    width:40%; 
+margin-left:70px;
+ text-align:center;
+    
+}
+
+.P-btn{
+background-color: #ffc002;
+  border: none;
+float:right;
+  border-radius: 8px;
+  width: 400px;
+  color: #001F60;
+  padding: 15px;
+ text-align:center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 2px 3px 0px 0px;
+  cursor: pointer;
+margin-right:100px;
+
+width:40%;
+}
+

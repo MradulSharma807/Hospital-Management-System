@@ -1,0 +1,130 @@
+*{
+     padding: 0px;
+     margin: 0px;
+}
+.class3
+{
+border:3px #050347;
+border-radius:8px;
+text-align:center;
+background-color:black;
+padding:100px;
+}
+.about_head{
+    background-color: #001F60;
+    text-align: center;
+    display: block;
+    color: white;
+    height: 36px;
+    font-size: 30px;
+    padding: 43px;
+    margin-top: -7px;
+
+}
+
+.about_content_card{
+     background-color:  #000;; 
+     text-shadow: 0 0 #bbb;
+ 
+     color:#fff;
+    width: 97%;
+    margin-left: 11px;
+    padding: 13px;
+    margin-right: 0px;
+    margin-top: 16px;
+    box-shadow: -1px 5px 8px 8px #bbb;
+    height: 531px;
+}
+
+.about_gallery_card{
+    background-color: #001F60; 
+    text-shadow: 0 0 #bbb;
+
+    color: #001F60;
+   width: 97%;
+   margin-left: 11px;
+   padding: 13px;
+   margin-right: 0px;
+   margin-top: 16px;
+   box-shadow: -1px 5px 8px 8px #bbb;
+   height: 450px;
+}
+
+.about_footer_card{
+    background-color: #fff;
+    color: #001F60;
+    width: 97%;
+    margin-left: 11px;
+    padding: 10px;
+    margin-right: 0px;
+    margin-top: 11px;
+    box-shadow: -1px 5px 8px 8px #bbb;
+    height: 558px;
+}
+
+.about_footer_card img{
+
+    width:50% ;
+    display: inline;
+    
+    }
+
+.footer_text{
+    background-color: #001F60;
+    text-align: center;
+    color: white;
+    padding: 47px;
+    height: 125px;
+    margin-top: 11px;
+    margin-bottom: -24px;
+}
+
+.para-img {
+    width: 461px;
+    height: 491px;
+    margin-right: -10px;
+    margin-top: -250;
+    margin-top: -100;
+    float: right;
+    margin-top: -310px;
+}
+
+.admins1{
+    margin-top: 45px;
+    width: 200px;
+    /* border-color: red; */
+    border: 8px solid white;
+    padding: 4px;
+    border-radius: 316px;
+    height: 200px;
+    float: left;
+    margin: 63px;
+    margin-left: 40px;
+    transition: transform .2s;
+}
+
+
+.admins1:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+ li{
+    display: inline;
+    color: aqua;
+    float: left;
+    margin: 50px;
+    margin-top: -21px;
+    padding: 49px;
+    margin-left: 50px;
+    font-size: 21px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  } 
+
+
+
+  
